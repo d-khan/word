@@ -27,7 +27,7 @@ The traditional chronological resume lists your work experience in reverse-chron
 Like the chronological resume, the hybrid resume includes specifics about where you worked, when you worked there, and what your job titles were. Like a functional resume, a hybrid resume emphasizes your most relevant qualifications in an expanded summary section, in several "career highlights" bullet points at the top of your resume, or in activity summaries.
 
 Created:
-Thursday, December 9, 2021
+Thursday, December 9, 2021  
 Note: The two paragraphs will become tne 2nd and 3rd paragraphs in the 5th section.
 
 
