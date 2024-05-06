@@ -15,7 +15,7 @@ Upon successful completion of weeks 1 & 2, you will be able to:
 # Activity 1: Prepare a Word document
 
 
-> Activity 1a Creating a document
+> __Activity 1a Creating a document__
 > 1. Open Word by clicking the Word tile at the Windows Start menu.
 
 
