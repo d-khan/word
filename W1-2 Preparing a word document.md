@@ -12,4 +12,5 @@ Upon successful completion of weeks 1 & 2, you will be able to:
 - Check spelling and grammar
 - Use the Tell Me and Help features
 
+# Activity 1: Prepare a Word document
 
